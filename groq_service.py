@@ -1,7 +1,7 @@
 from groq import Groq
 
 client = Groq(
-    api_key="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"
+    api_key="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"
 )
 
 def execute(prompt):
